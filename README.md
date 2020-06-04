@@ -107,7 +107,9 @@ To run our test suite:
 
 ## Design and Comps
 
-[FIGMA](https://citizenship-portal2.web.app)
+### FIGMA
+* [Interactive Prototype](https://citizenship-portal2.web.app)
+* [Inspect/Edit](https://www.figma.com/file/KfTQBdRSBA2Q7LEZuxV8FC/Citizenship-Portal?node-id=6%3A3790)
 
 ## Contibutors
 
